@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoForca.ConsoleApp", "JogoForca.ConsoleApp\JogoForca.ConsoleApp.csproj", "{F89D52F6-17D3-43D7-8429-FF0EA2436EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89D52F6-17D3-43D7-8429-FF0EA2436EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89D52F6-17D3-43D7-8429-FF0EA2436EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89D52F6-17D3-43D7-8429-FF0EA2436EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89D52F6-17D3-43D7-8429-FF0EA2436EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71906702-08A1-42C2-83F3-584DA4425D3D}
+	EndGlobalSection
+EndGlobal
